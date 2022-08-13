@@ -7,7 +7,7 @@ pragma solidity ^0.8.10;
 // Account 3 = Execute Role
 // Account 4 = Admin
 // Account 5 = Recipient of transaction
-// Account 6 = Send 10% Supply 0x09F59a58169B42e426a6398b167128F4AD4cC0dF
+// Account 6 = Send 10% Supply 
 
 /* Openzepplin contracts allow us to import and reuse the 
    codes which provide a specific task. Below, we can see 
