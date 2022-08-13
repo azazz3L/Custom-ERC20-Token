@@ -1,2 +1,6 @@
 # hit_erc20
-HIT ERC-20 token with a Multi Sig functionality
+ERC-20 token with a Multi Sig functionality
+
+### Functionality
+The contract allows creation of ERC-20 token with Roles 
+
